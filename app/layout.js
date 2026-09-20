@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Color Rush — Reflex Arena',
-  description: 'A fast, focused colour-matching reflex challenge.',
+  title: 'Reflex Arena',
+  description: 'A browser reflex game that measures speed and accuracy while presenting competitive results through a leaderboard flow.',
 };
 
 export default function RootLayout({ children }) {
